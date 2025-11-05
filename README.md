@@ -16,3 +16,4 @@
 
 #OUTPUT:
 
+<img width="752" height="433" alt="Image" src="https://github.com/user-attachments/assets/0ec4abff-c1cc-4b49-a925-2d68ba99cce1" />
